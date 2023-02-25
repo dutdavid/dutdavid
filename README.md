@@ -70,4 +70,6 @@
 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
+- [wazuh agent as a docker image](https://dev.to/dutdavid/wazuh-agent-as-a-docker-image-1b5n)
+- [Load Balancing with Golang](https://dev.to/dutdavid/load-balancing-with-golang-17jh)
 <!-- BLOG-POST-LIST:END -->
