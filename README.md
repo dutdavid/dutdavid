@@ -69,6 +69,5 @@
 ---
 
 ### ✍️ Blog Posts : 
-- [How to Create a Load Balancer with Golang](https://dev.to/dutdavid/load-balancing-with-golang-17jh)
-- [How to Run wazuh agent as a docker image](https://dev.to/dutdavid/wazuh-agent-as-a-docker-image-1b5n)<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
