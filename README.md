@@ -70,6 +70,7 @@
 
 ### ✍️ Blog Posts : 
 <!-- BLOG-POST-LIST:START -->
+- [Hosting a vite project on cloud](https://dev.to/dutdavid/hosting-a-vite-project-on-cloud-53fb)
 - [wazuh agent as a docker image](https://dev.to/dutdavid/wazuh-agent-as-a-docker-image-1b5n)
 - [Load Balancing with Golang](https://dev.to/dutdavid/load-balancing-with-golang-17jh)
 <!-- BLOG-POST-LIST:END -->
