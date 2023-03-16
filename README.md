@@ -62,7 +62,7 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dutdavid&theme=transparent&stroke=FF4510&border=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dutdavid&theme=darcula&stroke=FF4510&border=EB5454)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dutdavid&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
