@@ -62,9 +62,9 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-![Github Streak](https://github-readme-stats.vercel.app/api?username=dutdavid&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dutdavid&theme=vision-friendly-dark&hide_border=false)
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dutdavid&show_icons=true&theme=dark)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dutdavid&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
 
