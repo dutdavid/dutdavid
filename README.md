@@ -64,7 +64,7 @@
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=dutdavid&theme=javascript-dark&stroke=FF4510&border=EB5454)](https://git.io/streak-stats)
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dutdavid&show_icons=true&theme=radical)
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dutdavid&show_icons=true&theme=dark)
 
 ---
 
