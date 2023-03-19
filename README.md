@@ -24,7 +24,7 @@
 </div>
 
 ### :man_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Mobile Developer
+  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Mobile Developer
  - 🔭: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - 🌱: Exploring developing smart contracts with solidity.
