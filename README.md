@@ -67,7 +67,7 @@
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=dutdavid&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dutdavid&hide=css,scss,html,hack&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### ✍️ Random Dev Quote
+### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
