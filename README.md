@@ -66,7 +66,8 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dutdavid&hide_progress=true&hide=css,scss,html,hack&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
+### ✍️ Random Dev Quotes
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
